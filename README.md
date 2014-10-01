@@ -20,7 +20,7 @@ git clone https://github.com/georg94/flat-colors.git
 
 ### Download as zip
 You can also download the Project as zip folder.
-https://codeload.github.com/georg94/flat-colors/zip/gh-pages
+https://github.com/georg94/flat-colors/archive/master.zip
 
 After downloading you can extract the folder and copy the css files to your project.
 
