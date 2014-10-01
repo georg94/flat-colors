@@ -1,0 +1,8 @@
+div.colorbox {
+  height: 80px;
+  width: 280px;
+  font-size: 20px;
+  padding: 10px;
+  float: left;
+  clear: right;
+}
